@@ -1,0 +1,6 @@
+Apa itu git rebase ?
+
+Git rebase adalah salah satu perintah git yang digunakan untuk mengubah sejarah commit dan repository. cara kerja dari git rabase yaitu dengan mengurutkan penerapan cabang sumber, diikuti semua penerapan cabang target sejak terakhir penerapan.
+
+cara melakukan rebase yaitu dengan menjalankan perintah 'git rebase <source branch name> <target branch name>'
+ 

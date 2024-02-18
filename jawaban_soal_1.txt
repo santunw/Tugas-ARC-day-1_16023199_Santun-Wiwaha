@@ -1,0 +1,14 @@
+Apa itu merge conflict dan bagaimana cara menanggulanginya ?
+
+Merge conflict merupakan sebuah kasus di mana terdapat pertentangan(conflict) ketika proses integrasi(merge) antara dua source berbeda. Contoh kasus dari merge conflict dapat muncul ketika dua orang mengubah baris yang sama dalam sebuah file, atau jika seseorang menghapus file sementara seseorang yang lainnya memodifikasinya. Git akan menandai file tersebut sebagai file yang bertentangan dan menghentikan proses penggabungan.
+
+Berikut ini cara untuk menanggulangi merge conflict dalam git:
+
+1. Pahami sumber konflik dengan mengidentifikasi file yang mengalami konflik
+2. periksa status repositori dengan perintah 'git status'
+3. Buka file yang mengalami merge conflict
+4. Temukan penyebab konflik dan tentukan perubahan yang ingin digabungkan atau dipertahankan
+5. Gunakan 'git add <file name>' untuk menyimpan file yang fix, atau 'git rm <file name>' untuk menghapus file
+
+
+

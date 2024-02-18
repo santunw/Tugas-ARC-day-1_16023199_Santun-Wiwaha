@@ -1,0 +1,7 @@
+Apa itu fork dan pull request github ?
+
+Fork github adalah tindakan atau perintah untuk menyalin proyek kedalam akun github kita yang memungkinkan kita untuk bebas bereksperimen melakukan perubahan tanpa mempengaruhi repositori asli.
+Cara untuk melakukan fork di github cara pergi kerepositori utama yang anda inginkan. Kemudian tekan tombol "fork" di pojok kanan atas.
+
+pull request github adalah tindakan atau perintah untuk menggabungkan perubahn di ropositori fork dengan repositori asli.
+Cara untuk melakukan pull request yaitu dengan menekan tombol "new pull request" pada fork repository. Jika tidak terjadi masalah muncul tulisan "Able to merge". Kemudian kita juga dapat mengisi judul pull dan mengirim pesan yang ingin disampaikan terkait perubahan yang kita lakukan.
